@@ -1,0 +1,7 @@
+C:\Users\micie\source\repos\Desafio5\Desafio5\obj\Debug\Desafio5.csprojAssemblyReference.cache
+C:\Users\micie\source\repos\Desafio5\Desafio5\obj\Debug\Desafio5.csproj.CoreCompileInputs.cache
+C:\Users\micie\source\repos\Desafio5\Desafio5\bin\Debug\Desafio5.exe.config
+C:\Users\micie\source\repos\Desafio5\Desafio5\bin\Debug\Desafio5.exe
+C:\Users\micie\source\repos\Desafio5\Desafio5\bin\Debug\Desafio5.pdb
+C:\Users\micie\source\repos\Desafio5\Desafio5\obj\Debug\Desafio5.exe
+C:\Users\micie\source\repos\Desafio5\Desafio5\obj\Debug\Desafio5.pdb
